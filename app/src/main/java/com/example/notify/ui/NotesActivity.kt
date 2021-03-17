@@ -11,5 +11,8 @@ class NotesActivity : AppCompatActivity() {
         setContentView(R.layout.activity_note)
 
         Log.d("hello", "onCreate: ")
+        Log.d("hello", "onCreate: ")
+        Log.d("hello", "onCreate: ")
+
     }
 }
