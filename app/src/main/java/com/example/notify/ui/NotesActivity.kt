@@ -13,5 +13,7 @@ class NotesActivity : AppCompatActivity() {
         Log.d("hello", "onCreate: ")
         Log.d("hello", "onCreate: ")
         Log.d("hello", "onCreate: ")
+        Log.d("hello", "onCreate: ")
+        Log.d("hello", "onCreate: ")
     }
 }
